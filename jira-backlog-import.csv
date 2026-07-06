@@ -1,0 +1,22 @@
+Issue Type,Summary,Description,Priority,Story Points,Epic Name,Acceptance Criteria
+Epic,Acesso e perfil básico,"Permitir entrada no sistema com perfil de aluno ou professor, mantendo separação mínima das visões.",Alta,,EP01,Conforme detalhamento no PDF do backlog.
+Task,Acesso do usuário,"Entrada simples no ambiente, com identificação do perfil e redirecionamento para o painel correto.",Alta,,,Conforme detalhamento no PDF do backlog.
+Story,Login/acesso básico,"Como aluno, quero acessar a plataforma para visualizar minhas entregas acadêmicas.",Alta,3,,Conforme detalhamento no PDF do backlog.
+Story,Selecionar perfil,"Como usuário, quero acessar a visão correta conforme meu perfil para usar apenas as funções necessárias.",Média,2,,Conforme detalhamento no PDF do backlog.
+Epic,Gestão de tarefas acadêmicas,"Centralizar cadastro, consulta e atualização das entregas acadêmicas do aluno.",Alta,,EP02,Conforme detalhamento no PDF do backlog.
+Task,Painel de tarefas,"Lista de tarefas com prazo, disciplina, prioridade e status.",Alta,,,Conforme detalhamento no PDF do backlog.
+Story,Visualizar dashboard,"Como aluno, quero ver minhas tarefas em um painel para identificar rapidamente o que está pendente.",Alta,5,,Conforme detalhamento no PDF do backlog.
+Story,Cadastrar tarefa,"Como aluno, quero cadastrar uma tarefa informando título, disciplina, prazo, prioridade e observações.",Alta,5,,Conforme detalhamento no PDF do backlog.
+Story,Detalhar tarefa,"Como aluno, quero abrir uma tarefa para consultar informações completas e acompanhar o progresso.",Alta,3,,Conforme detalhamento no PDF do backlog.
+Story,Atualizar status,"Como aluno, quero alterar o status da tarefa para pendente, em andamento ou concluída.",Alta,5,,Conforme detalhamento no PDF do backlog.
+Story,Filtrar tarefas,"Como aluno, quero filtrar tarefas por disciplina, status e prazo para localizar itens importantes.",Média,3,,Conforme detalhamento no PDF do backlog.
+Epic,Acompanhamento docente,Disponibilizar visão geral para o professor acompanhar pendências dos alunos.,Média,,EP03,Conforme detalhamento no PDF do backlog.
+Task,Painel do professor,"Visão resumida de tarefas pendentes, concluídas e atrasadas por turma.",Média,,,Conforme detalhamento no PDF do backlog.
+Story,Ver pendências da turma,"Como professor, quero visualizar tarefas atrasadas e pendentes para apoiar os alunos com dificuldade.",Média,5,,Conforme detalhamento no PDF do backlog.
+Story,Consultar tarefa por aluno,"Como professor, quero consultar tarefas de um aluno para entender seu andamento individual.",Baixa,3,,Conforme detalhamento no PDF do backlog.
+Task,Notificações e relatórios,Adicionar alertas e indicadores após validação do fluxo principal.,Média,,,Conforme detalhamento no PDF do backlog.
+Task,Alertas de prazo,Notificações simples para tarefas próximas do vencimento.,Média,,,Conforme detalhamento no PDF do backlog.
+Story,Receber alerta de prazo,"Como aluno, quero receber aviso de prazo próximo para evitar atraso na entrega.",Média,5,,Conforme detalhamento no PDF do backlog.
+Story,Relatório simples,"Como coordenação, quero visualizar indicadores básicos para acompanhar adesão e atrasos.",Baixa,8,,Conforme detalhamento no PDF do backlog.
+Task,Segurança e LGPD,"Definir controle de acesso, tratamento mínimo de dados e proteção das informações acadêmicas.",Alta,3,,Conforme detalhamento no PDF do backlog.
+Task,Responsividade e acessibilidade,"Garantir uso em desktop e mobile, contraste adequado e navegação clara.",Alta,3,,Conforme detalhamento no PDF do backlog.
